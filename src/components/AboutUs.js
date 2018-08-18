@@ -9,7 +9,7 @@ export default class AboutUs extends Component {
     render() {
         return (
             <div>
-                <header className="header header-inverse" data-overlay={1} style={{backgroundImage: 'url(https://flinkhub.com/assets/img/lisfh.jpg)'}}>
+                <header className="header header-inverse" data-overlay={1} style={{backgroundImage: 'url(https://c1.staticflickr.com/4/3858/14325899679_179347cec0_b.jpg)'}}>
                     <div className="container-wide text-center">
                         <div className="row">
                             <div className="col-12 col-lg-8 offset-lg-2">
@@ -26,12 +26,11 @@ export default class AboutUs extends Component {
                             <div className="row gap-y align-items-center mb-90">
                                 <div className="col-12 col-md-5 text-center text-md-left">
                                     <h3 className="fw-300">关于我们</h3>
-                                    <p>成都莱斯顿出国服务有限公司成立於中国四川省成都市，註冊资金人民币捌佰万元整，是专注于为中国和美国企业提供企业管理服务，涵盖企业运营管理（含企业上市）、企业文化咨询、企业人事、人力资源管理、项目推广及管理等服务。</p>
-                                    <p>凭借对中国本土环境的透彻理解，加上跨国的专业平台背景支持，我们能为客户提供具有前瞻性、创造性、针对性和易实施的企业管理咨询解决方案。</p>
-                                    <p>接美国企业和资深律师事务所、会计师事务所官方授权与委托，本公司全权代表美国多家涉及法律、教育、投资、工贸的企业，承接部分惠及中国企业和个人的定制服务项目，负责项目在中国市场的落地和推广，为有需求的客户提供专业的服务，更希望助力相关行业在中国地区的发展。</p>
+                                    <p>成都莱斯顿出国服务有限公司成立于四川省成都市，注册资金人民币捌佰万元整，是独立法人企业。公司专注于为中国有意愿移民的公民合法、快速、安全地办理美国移民手续。</p>
+                                    <p>成都莱斯顿出国服务有限公司，系美国商务集团在中国西部唯一授权负责开展企业家、个人、全家移民定居美国及个人资产合法移动与保护，购置美国房产、地产及管理、国际项目投资与管理，开办独资企业（公司）等业务。并授权成都莱斯顿岀国服务有限公司有权以“ABSG”成都联络处的名义举行谈判并签署有关合作的意向协议。</p>
                                 </div>
                                 <div className="col-12 col-md-6 offset-md-1 text-center hidden-sm-down">
-                                    <img src="https://flinkhub.com/assets/img/connect.png" alt="..."></img>
+                                    <img src="http://pic.qiantucdn.com/58pic/13/80/01/25E58PICYAc_1024.jpg" alt="..."></img>
                                 </div>
                             </div>
                         </div>
@@ -41,15 +40,13 @@ export default class AboutUs extends Component {
                         <div className="container">
                             <div className="row gap-y align-items-center mb-90">
                                 <div className="col-12 col-md-6 text-center hidden-sm-down">
-                                    <img src="https://flinkhub.com/assets/img/welcome.png" style={{width: '75%'}} alt="..."></img>
+                                    <img src="http://study.com/cimages/course-image/clep-history-of-the-united-states-i-study-guide-test-prep_137696_large.jpg" style={{width: '100%'}} alt="..."></img>
                                 </div>
                                 <div className="col-12 col-md-5 offset-md-1 text-center text-md-left">
                                     <h3 className="fw-300">成立故事</h3>
-                                    <p>莱斯顿的成功设立，并不是简单地诞生了一项集团公司新业务，而是为新时代的企业在管理和发展的道路上添砖加瓦，为不同领域的企业和领导者提供真正科学和可持续的解决方案。</p>
-                                    <p>我们见证了很多中国企业朝气蓬勃、欣欣向荣的历史，也目睹了短小精悍的创业公司如何用科学的idea和无可挑剔的服务，为自己在市场中赢得了地位。</p>
-                                    <p>我们时刻体会着这样的差异，却又在这样这样的差异中鞭策自己，不断地更新升级企业管理解决方案。吃老本，行老路，终究要被淹没在历史的洪流中。</p>
-                                    <p>有好产品，却要面对“养在深闺人未识”的境，品牌人人识，无奈资金链断裂，遭遇停工、裁员，营销效果好，利润却寥寥无几，让人“心如刀割”。在创办企业和管理企业这条路上，小聪明永远胜不了大智慧，修修补补、敲敲打打也换不来系统性管理的严谨和游刃有余。</p>
-                                    <p>指导美资企业近半个世纪的企业管理智慧，现由桑瑞斯企业管理咨询正式推向中国市场。</p>
+                                    <p>成都莱斯顿的成功设立，并不是简单地诞生了一家出国服务公司，而是搭建起了中美两国民间与民间、企业与企业、国家与国家的积极向上的互通互惠的桥梁。</p>
+                                    <p>莱斯顿出国服务有限公司结合美商集团20多年的移民经验，汇聚美商集团著名的律师团队、顶级移民规划师、金牌文案专家、专家级会计师事务所团队为客户定制专属的移民方案，98%以上的移民绿卡成功率。并为客户的个人资产（财产）合法地移动定制专属方案以确保合法成功。</p>
+                                    <p>莱斯顿出国服务有限公司不同于市场上的中介公司，客户一经与莱斯顿签定协议，后续的流程即由美商集团旗下的律师、会计师、顶级文案专家等强大的团队进入流程中开展工作，客户如有疑虑可前往美国视察并考证。莱斯顿岀国服务有限公司的服务是透明的、工作流程也是透明的，欢迎各界人士与我们合作。</p>
                                 </div>
                             </div>
                         </div>

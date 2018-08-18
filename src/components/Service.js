@@ -1,6 +1,5 @@
 import React, { Component } from 'react'
 import 'react-toastify/dist/ReactToastify.min.css'
-import {Map, Marker, NavigationControl, InfoWindow} from 'react-bmap'
 
 export default class Service extends Component {
     constructor(props) {
@@ -138,20 +137,17 @@ export default class Service extends Component {
                                 <div className="col-lg-4">
                                     <img className="rounded-circle" src="http://10956973.s61i.faiusr.com/4/AD0IreGcBRAEGAAgncOkvgUoyIiHjwMwpQE4pQE.png" alt="Generic placeholder image"></img>
                                     <br></br><br></br>
-                                    <h3>企业文化咨询</h3>
-                                    <p>企业文化调研、建设方案、系统设计与规划企业文化手册、视觉系统、行为系统</p>
+                                    <h3>跨国高管移民</h3>
                                 </div>
                                 <div className="col-lg-4">
                                     <img className="rounded-circle" src="http://10956973.s61i.faiusr.com/4/AD0IreGcBRAEGAAgmsOkvgUosJnGlwIwpQE4pQE.png" alt="Generic placeholder image"></img>
                                     <br></br><br></br>
-                                    <h3>企业运营管理</h3>
-                                    <p>企业实地走访、调研运营管理根基、企业上市</p>
+                                    <h3>出国定居、探亲、访友</h3>
                                 </div>
                                 <div className="col-lg-4">
                                     <img className="rounded-circle" src="http://10956973.s61i.faiusr.com/4/AD0IreGcBRAEGAAgn8OkvgUoiKf20wEwpQE4pQE.png" alt="Generic placeholder image"></img>
                                     <br></br><br></br>
-                                    <h3>人力资源管理</h3>
-                                    <p>人力资源整体战略定位与规划，建立全面系统、操作性强的人力资源管理体系</p>
+                                    <h3>财产继承和其它非公务活动提供信息介绍</h3>
                                 </div>
                             </div>
                             <br></br>
@@ -160,20 +156,17 @@ export default class Service extends Component {
                                 <div className="col-lg-4">
                                     <img className="rounded-circle" src="http://10956973.s61i.faiusr.com/4/AD0IreGcBRAEGAAgosOkvgUoxeDRFjClATilAQ.png" alt="Generic placeholder image"></img>
                                     <br></br><br></br>
-                                    <h3>企业管理培训服务</h3>
-                                    <p>为企业的中高层领导人和管理人员，提供企业切实可行的培训和培训方案</p>
+                                    <h3>法律咨询</h3>
                                 </div>
                                 <div className="col-lg-4">
                                     <img className="rounded-circle" src="http://10956973.s61i.faiusr.com/4/AD0IreGcBRAEGAAgpMOkvgUo8IbakAIwpQE4pQE.png" alt="Generic placeholder image"></img>
                                     <br></br><br></br>
-                                    <h3>项目推广及管理</h3>
-                                    <p>为企业的中高层领导人和管理人员，提供企业切实可行的培训和培训方案</p>
+                                    <h3>商务信息咨询翻译服务</h3>
                                 </div>
                                 <div className="col-lg-4">
                                     <img className="rounded-circle" src="http://10956973.s61i.faiusr.com/4/AD0IreGcBRAEGAAgpsOkvgUowZLr3QQwpQE4pQE.png" alt="Generic placeholder image"></img>
                                     <br></br><br></br>
-                                    <h3>其他国际化业务咨询</h3>
-                                    <p>为有国际发展寻求或考虑国际业务发展的企业量身定做解决方案，一站式服务</p>
+                                    <h3>岀国留学咨询，岀入境旅游服务</h3>
                                 </div>
                             </div>
 
