@@ -65,7 +65,6 @@ export default class AboutUs extends Component {
                                         <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
                                         <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
                                         <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
-                                        {/*<li data-target="#carouselExampleIndicators" data-slide-to="4"></li>*/}
                                     </ol>
                                     <div className="carousel-inner" role="listbox" style={{width:"100%", height: "500px !important"}}>
                                         <div className="carousel-item active">
@@ -80,11 +79,6 @@ export default class AboutUs extends Component {
                                         <div className="carousel-item">
                                             <img className="d-block w-3500" src="http://11687707.s21i.faiusr.com/2/ABUIABACGAAgpP3KwAUo9v-HkwQwoAY42AQ.jpg" alt="Fourth slide"></img>
                                         </div>
-                                        {/*
-                                        <div className="carousel-item">
-                                            <img className="d-block w-3500" src="http://11687707.s21i.faiusr.com/2/ABUIABACGAAgufzKwAUonPKt5QcwsAk45gU.jpg" alt="Fifth slide"></img>
-                                        </div>
-                                        */}
                                     </div>
                                     <a className="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
                                         <span className="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -96,12 +90,9 @@ export default class AboutUs extends Component {
                                     </a>
                                 </div>
                             </div>
-
                         </div>
                     </section>
-
                 </main>
-
             </div>
         )
     }
